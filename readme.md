@@ -19,7 +19,7 @@ The webinar series can be accessed here:
 2. Modify the Agent Class to experiment with different topologies i.e. hidden layers and units
 3. You can either choose to run the algorithm for a fixed number of generations or a fixed time in seconds. Refer the comments in the `evolve` function for details on which lines to comment/uncomment for choosing fixed generations/time.
 4. Run the `play_agent` function to see the trained agent balancing the cartpole.
-5. You can also run the [dqn_cartpole.py](dqn_cartpole.py) script to compare Neuroevolution against Deep Q Network RL algorithm on the same environment. The default time that the DQN script runs is 120 seconds which can be changed using the `max_time` parameter of `cartpole()`. Neurevolution is able to solve the environment in 120 seconds while DQN takes comparatively longer time at around 300 seconds.
+5. You can also run the [dqn_cartpole.py](dqn_cartpole.py) script to compare Neuroevolution against Deep Q Network RL algorithm on the same environment. The default time that the DQN script runs is 120 seconds which can be changed using the `max_time` parameter of `cartpole()`. Neurevolution is able to solve the environment in 120 seconds while DQN takes much longer time.
 
 ![Neuroevolution CartPole](neuroevolution_cartpole_gif.gif)
 
