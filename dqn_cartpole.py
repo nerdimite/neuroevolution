@@ -98,4 +98,4 @@ def cartpole(max_time=120):
 
 
 if __name__ == "__main__":
-    cartpole(max_time=120)
+    cartpole(max_time=360)
