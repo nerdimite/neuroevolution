@@ -4,11 +4,6 @@ Neuroevolution is the application of genetic algorithms to optimize the paramete
 
 This repository contains the code for the second part of the webinar series I am doing on Evolutionary AI. In this session, I demonstrate the basics of neuroevolution by evolving a population of fixed topology neural networks to balance a cartpole.
 
-The webinar series can be accessed here:
-1. [Genetic Algorithms](https://www.meetup.com/Disrupt-4-0/events/271033356/)
-2. [Intro to NeuroEvolution](https://www.meetup.com/Disrupt-4-0/events/zfsxrrybcjbbc/)
-3. [NeuroEvolution of Augmenting Topologies (NEAT)](https://www.meetup.com/Disrupt-4-0/events/271212059/)
-
 ## Requirements
 * PyTorch
 * Gym
